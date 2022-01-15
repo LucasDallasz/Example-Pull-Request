@@ -12,5 +12,6 @@ def main():
         )
 
     print(students)
-
+    print('updated')
+    
 main()
